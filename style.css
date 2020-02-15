@@ -1,0 +1,28 @@
+body {
+    color: #181818;
+    background-color: white;
+    font-family: 'special elite', sans-serif;
+    font-size: 22px;
+    line-height: 2;
+    margin: 100px;
+}
+
+
+.fotka {
+    width: 400px;
+    border-radius: 10%;
+    float: left;
+    border: 3px dotted  rgb(29, 28, 26);
+    margin-right: 100px;
+    padding: 6px;
+}
+h1{ 
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 40px;
+}
+.omne {
+    margin-right: 50px;
+}
+a {
+    color: rgb(168, 143, 114);}
