@@ -20,6 +20,7 @@ h1{
     text-align: center;
     padding-bottom: 10px;
     font-size: 40px;
+    text-transform: capitalize;
 }
 .omne {
     margin-right: 50px;
